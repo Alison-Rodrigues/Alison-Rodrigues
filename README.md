@@ -13,8 +13,8 @@
 ## 📊 Estatística do GitHub 📊
 ---
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Alison-Rodrigues&theme=shades-of-purple)](https://github.com/DenverCoder1/github-readme-streak-stats)
-  
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Alison-Rodrigues&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alison-Rodrigues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alison-Rodrigues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
